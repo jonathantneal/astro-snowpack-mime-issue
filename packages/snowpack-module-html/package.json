@@ -1,0 +1,5 @@
+{
+  "name": "snowpack-module-html",
+  "type": "commonjs",
+  "private": true
+}
